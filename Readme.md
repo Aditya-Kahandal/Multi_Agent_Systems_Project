@@ -1,0 +1,1 @@
+# Autonomous Response & Emergency Coordination System - ARES
