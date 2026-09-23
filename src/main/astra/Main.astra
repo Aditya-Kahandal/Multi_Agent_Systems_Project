@@ -1,0 +1,7 @@
+agent Main{
+    module Console first_unit;
+
+    rule +!main(list args){
+        first_unit.println("Working");
+    }
+}
